@@ -4,7 +4,9 @@
 
 ### import useFrom from react-hook-form
 
-### const {register,handleSubmit,forms:{errors}}=useForm()
+        import { useForm } from 'react-hook-form'
+
+### const {register,handleSubmit,formState:{errors}}=useForm()
 
 ### <input {...register('name') } />
 
