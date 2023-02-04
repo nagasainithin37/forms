@@ -2,6 +2,10 @@
 
 ## To use form in react install react-hook-form
 
+cmd:
+
+    npm instal react-hook-form
+
 ### import useFrom from react-hook-form
 
         import { useForm } from 'react-hook-form'
